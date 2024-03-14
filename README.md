@@ -8,5 +8,5 @@ composer install
 php artisan key:generate
 php artisan migrate php artisan serve
 Then open another terminal in the same directory and run 
-npm install , once through then run 
+npm install --force , once through then run 
 npm run dev,
